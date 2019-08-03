@@ -1,2 +1,2 @@
-# UnitTest
-Starter project for learning Unit Test
+# JUnit Demo
+Starter project for learning Unit Test with JUnit
